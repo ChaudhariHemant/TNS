@@ -9,6 +9,6 @@ public class ComplierInput {
 		System.out.println("the num is:"+num);
 		
 
-	}
+	};
 
 }
